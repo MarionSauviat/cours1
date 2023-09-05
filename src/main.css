@@ -1,0 +1,25 @@
+.maClasse {
+  background-color: cyan;
+  padding: 1em;
+  border-radius: 20px;
+  margin: 0.5em;
+}
+
+.desc {
+  display: flex;
+}
+
+.card {
+  background-color: palegoldenrod;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 10em;
+}
+
+.img{
+  width: 10em;
+  border-radius: 50px;
+  border: solid black .2em;
+}
